@@ -23,5 +23,5 @@ Python client library(not official version) for Douban Fm API
 * 兆赫搜索
 * 节目搜索
 
-
 ## 使用方法(编写中)
+参考官方API的使用
