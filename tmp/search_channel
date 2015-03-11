@@ -1,0 +1,257 @@
+{
+    "total": 17,
+    "channels": [
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/26383.jpg",
+            "intro": "每天发现一首好听的歌",
+            "style": {
+                "display_text": "8023首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 8023,
+            "id": 1,
+            "name": "华语",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/22230.jpg",
+            "intro": "躲不过。逃不掉。忘不了。的。华，语，流，行。",
+            "style": {
+                "display_text": "213首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 213,
+            "id": 1003841,
+            "name": "逃不掉的华语流行",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/18351.jpg",
+            "intro": "记忆中的华语典藏",
+            "style": {
+                "display_text": "370首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 370,
+            "id": 1002453,
+            "name": "难忘的华语经典",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/24967.jpg",
+            "intro": "小众歌手的名曲，潮流歌手的小曲。一开始创建FM是为了更方便找歌，原来已那么多人在听，感恩。",
+            "style": {
+                "display_text": "231首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 231,
+            "id": 1004819,
+            "name": "这些华语女声",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/23426.jpg",
+            "intro": "经典和冷门混杂，不放新歌...",
+            "style": {
+                "display_text": "80首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 80,
+            "id": 1004271,
+            "name": "华语歌也挺好听的",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/25607.jpg",
+            "intro": "【2013.7.25更新】在这里可以收听到豆瓣音乐首页每周的华语新碟，每周四更新。",
+            "style": {
+                "display_text": "107首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 107,
+            "id": 1005027,
+            "name": "豆瓣华语新碟榜",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/18272.jpg",
+            "intro": "用最熟悉的声儿嬉笑怒骂",
+            "style": {
+                "display_text": "38首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 38,
+            "id": 1002407,
+            "name": "华语说唱兆赫",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/14765.jpg",
+            "intro": "华语乐坛历年的派台主打金曲！",
+            "style": {
+                "display_text": "120首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 120,
+            "id": 1000538,
+            "name": "华语夯歌选",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/14433.jpg",
+            "intro": "一些不掺水的华语好歌。",
+            "style": {
+                "display_text": "154首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 154,
+            "id": 1000295,
+            "name": "华语一锅煎",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/26526.jpg",
+            "intro": "收录孙燕姿，蔡依林，萧亚轩，SHE，梁静茹，徐怀钰等人最初的声音。",
+            "style": {
+                "display_text": "284首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 284,
+            "id": 1005310,
+            "name": "最后的华语天后",
+            "collected": "false"
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s2753968.jpg",
+            "intro": "为你推荐与 Olivia Ong - I Believe (华语) 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "547455g1994g2547455",
+            "collected": "false",
+            "song_num": 0,
+            "id": 2547455,
+            "name": "I Believe (华语)",
+            "artist": "Olivia Ong"
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s2753968.jpg",
+            "intro": "为你推荐与 Olivia Ong - Lovers' Tears (华语) 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "547456g8bfag2547456",
+            "collected": "false",
+            "song_num": 0,
+            "id": 2547456,
+            "name": "Lovers' Tears (华语)",
+            "artist": "Olivia Ong"
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s2397507.jpg",
+            "intro": "为你推荐与 华少翌 - 华语恋曲 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "66943ga118g2066943",
+            "collected": "false",
+            "song_num": 0,
+            "id": 2066943,
+            "name": "华语恋曲",
+            "artist": "华少翌"
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2788313.jpg",
+            "intro": "为你推荐与 黄明志 - 麻坡的华语 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "213261gfc44g2213261",
+            "collected": "false",
+            "song_num": 0,
+            "id": 2213261,
+            "name": "麻坡的华语",
+            "artist": "黄明志"
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2788313.jpg",
+            "intro": "为你推荐与 黄明志 - 麻坡的华语(live版－忘词版) 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "213260g6186g2213260",
+            "collected": "false",
+            "song_num": 0,
+            "id": 2213260,
+            "name": "麻坡的华语(live版－忘词版)",
+            "artist": "黄明志"
+        },
+        {
+            "cover": "http://img3.douban.com/view/site/large/public/5f0cb167a0c7f97.jpg",
+            "intro": "为你推荐与 木子十 - 那个改变了华语流行乐的男人(cover) 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "1600380ge26bg3600380",
+            "collected": "false",
+            "song_num": 0,
+            "id": 3600380,
+            "name": "那个改变了华语流行乐的男人(cover)",
+            "artist": "木子十"
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s6989203.jpg",
+            "intro": "为你推荐与 姚政 - 华语乐坛榜上榜 相似的歌曲",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "start": "2029715gb6a9g4029715",
+            "collected": "false",
+            "song_num": 0,
+            "id": 4029715,
+            "name": "华语乐坛榜上榜",
+            "artist": "姚政"
+        }
+    ]
+}

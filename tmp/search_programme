@@ -1,0 +1,655 @@
+{
+    "total": 618,
+    "programmes": [
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1296419-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "22214919",
+                "name": "何鲤游™",
+                "url": "http://www.douban.com/people/poissons19/"
+            },
+            "title": "一首歌一个故事（华语男声版 一）",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 1296419
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1318946-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "72155761",
+                "name": "断弦独孤",
+                "url": "http://www.douban.com/people/72155761/"
+            },
+            "title": "华语流行音乐",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1318946
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/435436-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "60160530",
+                "name": "时",
+                "url": "http://www.douban.com/people/60160530/"
+            },
+            "title": "给华语音乐建个节目单（女声版）",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 435436
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "22214919",
+                "name": "何鲤游™",
+                "url": "http://www.douban.com/people/poissons19/"
+            },
+            "title": "一首歌一个故事（华语女声版 ）",
+            "is_collected": false,
+            "songs_count": 25,
+            "id": 1296409
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "3760144",
+                "name": "德敛於",
+                "url": "http://www.douban.com/people/3760144/"
+            },
+            "title": "Melting Pot 华语3",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 1301763
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "3760144",
+                "name": "德敛於",
+                "url": "http://www.douban.com/people/3760144/"
+            },
+            "title": "Melting Pot 华语1",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 1313993
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "22214919",
+                "name": "何鲤游™",
+                "url": "http://www.douban.com/people/poissons19/"
+            },
+            "title": "文艺清新（华语女声）",
+            "is_collected": false,
+            "songs_count": 20,
+            "id": 1296410
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/295367-4.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "60160530",
+                "name": "时",
+                "url": "http://www.douban.com/people/60160530/"
+            },
+            "title": "给华语音乐建个节目单（男声版）",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 295367
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/268169-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "2042255",
+                "name": "owenwoo",
+                "url": "http://www.douban.com/people/owenwoo/"
+            },
+            "title": "华语民谣歌曲",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 268169
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "3760144",
+                "name": "德敛於",
+                "url": "http://www.douban.com/people/3760144/"
+            },
+            "title": "Melting Pot 华语2",
+            "is_collected": false,
+            "songs_count": 19,
+            "id": 1313998
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/264253-5.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "53983424",
+                "name": "May",
+                "url": "http://www.douban.com/people/53983424/"
+            },
+            "title": "那些过耳不忘的华语歌",
+            "is_collected": false,
+            "songs_count": 26,
+            "id": 264253
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "22214919",
+                "name": "何鲤游™",
+                "url": "http://www.douban.com/people/poissons19/"
+            },
+            "title": "一首歌一个故事（华语女声版 二）",
+            "is_collected": false,
+            "songs_count": 12,
+            "id": 1296408
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/431736-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "3699707",
+                "name": "shen henry",
+                "url": "http://www.douban.com/people/3699707/"
+            },
+            "title": "小众又好听的华语歌",
+            "is_collected": false,
+            "songs_count": 21,
+            "id": 431736
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "22214919",
+                "name": "何鲤游™",
+                "url": "http://www.douban.com/people/poissons19/"
+            },
+            "title": "文艺暖心（华语男声）",
+            "is_collected": false,
+            "songs_count": 9,
+            "id": 1296414
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/32927-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "1366431",
+                "name": "山中一客",
+                "url": "http://www.douban.com/people/shanzhongyike/"
+            },
+            "title": "90年代-00年代。华语怀旧。",
+            "is_collected": false,
+            "songs_count": 25,
+            "id": 32927
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "26503523",
+                "name": "tre",
+                "url": "http://www.douban.com/people/26503523/"
+            },
+            "title": "华语-怀旧",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 438094
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "66989585",
+                "name": "第七次沉默",
+                "url": "http://www.douban.com/people/66989585/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 10,
+            "id": 1040032
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1039900-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "66989585",
+                "name": "第七次沉默",
+                "url": "http://www.douban.com/people/66989585/"
+            },
+            "title": "华语classic",
+            "is_collected": false,
+            "songs_count": 10,
+            "id": 1039900
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "4145546",
+                "name": "jesse",
+                "url": "http://www.douban.com/people/jesse2009/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 25,
+            "id": 26944
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/271736-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "2042255",
+                "name": "owenwoo",
+                "url": "http://www.douban.com/people/owenwoo/"
+            },
+            "title": "华语民谣歌曲2",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 271736
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "2183579",
+                "name": "C酱",
+                "url": "http://www.douban.com/people/2183579/"
+            },
+            "title": "这些华语女声22",
+            "is_collected": false,
+            "songs_count": 9,
+            "id": 825161
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "2183579",
+                "name": "C酱",
+                "url": "http://www.douban.com/people/2183579/"
+            },
+            "title": "这些华语女声15",
+            "is_collected": false,
+            "songs_count": 9,
+            "id": 825154
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/270880-3.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "2042255",
+                "name": "owenwoo",
+                "url": "http://www.douban.com/people/owenwoo/"
+            },
+            "title": "曾喜欢的华语歌曲",
+            "is_collected": false,
+            "songs_count": 24,
+            "id": 270880
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "63632330",
+                "name": "wintersea",
+                "url": "http://www.douban.com/people/summer2sama/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 23,
+            "id": 12893
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "1952346",
+                "name": "我爱德沃夏克",
+                "url": "http://www.douban.com/people/1952346/"
+            },
+            "title": "随手放华语10",
+            "is_collected": false,
+            "songs_count": 8,
+            "id": 1287735
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "45271426",
+                "name": "on the road",
+                "url": "http://www.douban.com/people/45271426/"
+            },
+            "title": "华语经典",
+            "is_collected": false,
+            "songs_count": 27,
+            "id": 280348
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "59873512",
+                "name": "F珂酱",
+                "url": "http://www.douban.com/people/flora9527/"
+            },
+            "title": "原来我真的还有听华语歌诶~",
+            "is_collected": false,
+            "songs_count": 22,
+            "id": 268357
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1366674-2.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "84655356",
+                "name": "cap ou pas cap",
+                "url": "http://www.douban.com/people/84655356/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 1366674
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "35700000",
+                "name": "fanwenji",
+                "url": "http://www.douban.com/people/35700000/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 321807
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/256756-4.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "34788458",
+                "name": "张外外",
+                "url": "http://www.douban.com/people/hzyn1229/"
+            },
+            "title": "喜欢的( ⊙ o ⊙ )——华语",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 256756
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "32833579",
+                "name": "Moon",
+                "url": "http://www.douban.com/people/XuSabrina/"
+            },
+            "title": "华语 3",
+            "is_collected": false,
+            "songs_count": 23,
+            "id": 16041
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "1952346",
+                "name": "我爱德沃夏克",
+                "url": "http://www.douban.com/people/1952346/"
+            },
+            "title": "迷恋华语流行06",
+            "is_collected": false,
+            "songs_count": 7,
+            "id": 1287699
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "13607567",
+                "name": "Leafi",
+                "url": "http://www.douban.com/people/13607567/"
+            },
+            "title": "华语女",
+            "is_collected": false,
+            "songs_count": 19,
+            "id": 20049
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "77167130",
+                "name": "aqua",
+                "url": "http://www.douban.com/people/77167130/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 20,
+            "id": 261272
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/270883-2.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "2042255",
+                "name": "owenwoo",
+                "url": "http://www.douban.com/people/owenwoo/"
+            },
+            "title": "曾喜欢的华语歌曲2",
+            "is_collected": false,
+            "songs_count": 26,
+            "id": 270883
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/31837-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "71185340",
+                "name": "悟空&憨豆",
+                "url": "http://www.douban.com/people/71185340/"
+            },
+            "title": "华语影视原声精选集1",
+            "is_collected": false,
+            "songs_count": 26,
+            "id": 31837
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "1952346",
+                "name": "我爱德沃夏克",
+                "url": "http://www.douban.com/people/1952346/"
+            },
+            "title": "随手放华语09",
+            "is_collected": false,
+            "songs_count": 7,
+            "id": 1287733
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "2183579",
+                "name": "C酱",
+                "url": "http://www.douban.com/people/2183579/"
+            },
+            "title": "这些华语女声20",
+            "is_collected": false,
+            "songs_count": 9,
+            "id": 825159
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "3392754",
+                "name": "Strelizeia",
+                "url": "http://www.douban.com/people/anitaforever/"
+            },
+            "title": "华语男歌手",
+            "is_collected": false,
+            "songs_count": 24,
+            "id": 354092
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "2183579",
+                "name": "C酱",
+                "url": "http://www.douban.com/people/2183579/"
+            },
+            "title": "这些华语女声21",
+            "is_collected": false,
+            "songs_count": 7,
+            "id": 825160
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1364553-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "47323990",
+                "name": "米饭粒子",
+                "url": "http://www.douban.com/people/47323990/"
+            },
+            "title": "打动人心的华语歌（伤感类）",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1364553
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/1337679-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "57111553",
+                "name": "Y丶A X",
+                "url": "http://www.douban.com/people/57111553/"
+            },
+            "title": "值得回味的华语歌曲",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1337679
+        },
+        {
+            "cover": "http://img5.douban.com/img/songlist/large/1334358-9.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "1676378",
+                "name": "珮珮peaci",
+                "url": "http://www.douban.com/people/peaci/"
+            },
+            "title": "那些华语歌",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1334358
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "49691320",
+                "name": "拉面的大房间",
+                "url": "http://www.douban.com/people/49691320/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1332110
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "59723333",
+                "name": "BabyJane87",
+                "url": "http://www.douban.com/people/59723333/"
+            },
+            "title": "日文歌原版&华语翻唱版 No.2",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1327945
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "59723333",
+                "name": "BabyJane87",
+                "url": "http://www.douban.com/people/59723333/"
+            },
+            "title": "日文歌原版&华语翻唱版 No.1",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 1327943
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "4002656",
+                "name": "20世纪少年",
+                "url": "http://www.douban.com/people/yanghe100/"
+            },
+            "title": "华语经典女声",
+            "is_collected": false,
+            "songs_count": 27,
+            "id": 480381
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "89467416",
+                "name": "hello xu",
+                "url": "http://www.douban.com/people/89467416/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 476441
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "93013698",
+                "name": "小丶布袋",
+                "url": "http://www.douban.com/people/93013698/"
+            },
+            "title": "华语女星",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 457296
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/406029-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "86813771",
+                "name": "superme",
+                "url": "http://www.douban.com/people/86813771/"
+            },
+            "title": "华语",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 406029
+        }
+    ]
+}

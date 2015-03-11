@@ -1,0 +1,151 @@
+{
+    "similar_song_channel": 3954748,
+    "artist_channels": [
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/19131.jpg",
+            "intro": "为你推荐 李宗盛 以及相似的艺术家",
+            "style": {
+                "display_text": "",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 0,
+            "id": 23222,
+            "name": "李宗盛 系",
+            "collected": "false"
+        }
+    ],
+    "related_programmes": [
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/263197-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "55653700",
+                "name": "井瞳",
+                "url": "http://www.douban.com/people/sueyue/"
+            },
+            "title": "▲▲漂洋過海來看你▲▲",
+            "is_collected": false,
+            "songs_count": 28,
+            "id": 263197
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/417043-3.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "2214646",
+                "name": "：D　茜榕",
+                "url": "http://www.douban.com/people/2214646/"
+            },
+            "title": "把标题写到写不下是不是就不用再写正文了呢",
+            "is_collected": false,
+            "songs_count": 29,
+            "id": 417043
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/61403-2.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "60241657",
+                "name": "不务正耶",
+                "url": "http://www.douban.com/people/60241657/"
+            },
+            "title": "失眠变奏曲1",
+            "is_collected": false,
+            "songs_count": 27,
+            "id": 61403
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/326281-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "62603306",
+                "name": "密室游鱼",
+                "url": "http://www.douban.com/people/62603306/"
+            },
+            "title": "我要去远方",
+            "is_collected": false,
+            "songs_count": 10,
+            "id": 326281
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/344721-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "28174412",
+                "name": "金银花小姐",
+                "url": "http://www.douban.com/people/28174412/"
+            },
+            "title": "让我安静的坐在你对面",
+            "is_collected": false,
+            "songs_count": 9,
+            "id": 344721
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/251755-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "63014052",
+                "name": "小拜年",
+                "url": "http://www.douban.com/people/xiaobainian/"
+            },
+            "title": "2009㎡",
+            "is_collected": false,
+            "songs_count": 25,
+            "id": 251755
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "1731344",
+                "name": "Daphneday",
+                "url": "http://www.douban.com/people/Daphneday/"
+            },
+            "title": "2008那一年",
+            "is_collected": false,
+            "songs_count": 4,
+            "id": 333202
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "50773479",
+                "name": "大大筠",
+                "url": "http://www.douban.com/people/50773479/"
+            },
+            "title": "舍不得的岁月经典",
+            "is_collected": false,
+            "songs_count": 10,
+            "id": 319131
+        },
+        {
+            "cover": "http://img3.douban.com/pics/music/songlist/cover_default_v1.png",
+            "can_play": true,
+            "creator": {
+                "id": "78808648",
+                "name": "Captain Z",
+                "url": "http://www.douban.com/people/78808648/"
+            },
+            "title": "为你点亮一盏灯",
+            "is_collected": false,
+            "songs_count": 30,
+            "id": 327111
+        },
+        {
+            "cover": "http://img3.douban.com/img/songlist/large/305527-1.jpg",
+            "can_play": true,
+            "creator": {
+                "id": "63744014",
+                "name": "五千里",
+                "url": "http://www.douban.com/people/63744014/"
+            },
+            "title": "唱首歌我就跟你走",
+            "is_collected": false,
+            "songs_count": 10,
+            "id": 305527
+        }
+    ]
+}

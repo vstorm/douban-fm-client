@@ -1,0 +1,366 @@
+{
+    "r": 0,
+    "songs": [
+        {
+            "cover": "http://img3.douban.com/lpic/s3620560.jpg",
+            "id": "1695363",
+            "title": "太委屈",
+            "subject_title": "爱缺",
+            "liked": "1",
+            "artist": "陶晶莹",
+            "song_channel": 3695363
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2882190.jpg",
+            "id": "313294",
+            "title": "情人",
+            "subject_title": "99情人",
+            "liked": "1",
+            "artist": "杜德伟",
+            "song_channel": 2313294
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4716414.jpg",
+            "id": "1494284",
+            "title": "比我幸福",
+            "subject_title": "幸福男子",
+            "liked": "1",
+            "artist": "陈晓东",
+            "song_channel": 3494284
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s27058826.jpg",
+            "id": "1084906",
+            "title": "短发",
+            "subject_title": "短发",
+            "liked": "1",
+            "artist": "梁咏琪",
+            "song_channel": 3084906
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s1486187.jpg",
+            "id": "185725",
+            "title": "爱笑的眼睛",
+            "subject_title": "狠狠爱",
+            "liked": "1",
+            "artist": "徐若瑄",
+            "song_channel": 2185725
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s26758210.jpg",
+            "id": "1953275",
+            "title": "Wake Me Up (Instrumental)",
+            "subject_title": "Wake Me Up",
+            "liked": "1",
+            "artist": "Avicii",
+            "song_channel": 3953275
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s3500248.jpg",
+            "id": "559285",
+            "title": "Nothing In The World",
+            "subject_title": "Ladies Night",
+            "liked": "1",
+            "artist": "Atomic Kitten",
+            "song_channel": 2559285
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s3836138.jpg",
+            "id": "340961",
+            "title": "习惯失恋",
+            "subject_title": "喜欢祖儿 3 (新曲+精选)",
+            "liked": "1",
+            "artist": "容祖儿",
+            "song_channel": 2340961
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3485794.jpg",
+            "id": "1392144",
+            "title": "心跳",
+            "subject_title": "心跳",
+            "liked": "1",
+            "artist": "王力宏",
+            "song_channel": 3392144
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2149524.jpg",
+            "id": "192382",
+            "title": "那女孩",
+            "subject_title": "完整演出",
+            "liked": "1",
+            "artist": "黄义达",
+            "song_channel": 2192382
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4712474.jpg",
+            "id": "703957",
+            "title": "桜色舞うころ",
+            "subject_title": "Music",
+            "liked": "1",
+            "artist": "中島美嘉",
+            "song_channel": 2703957
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2388962.jpg",
+            "id": "739226",
+            "title": "听海",
+            "subject_title": "妹力新世纪",
+            "liked": "1",
+            "artist": "张惠妹",
+            "song_channel": 2739226
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4711974.jpg",
+            "id": "626283",
+            "title": "心中的日月",
+            "subject_title": "心中的日月",
+            "liked": "1",
+            "artist": "王力宏",
+            "song_channel": 2626283
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s1477119.jpg",
+            "id": "644653",
+            "title": "Every Breath You Take",
+            "subject_title": "Greatest Hits",
+            "liked": "1",
+            "artist": "The Police",
+            "song_channel": 2644653
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3392312.jpg",
+            "id": "163831",
+            "title": "On The Radio",
+            "subject_title": "Jade",
+            "liked": "1",
+            "artist": "Sweetbox",
+            "song_channel": 2163831
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s4370169.jpg",
+            "id": "1477092",
+            "title": "期待",
+            "subject_title": "轩动心弦演唱会",
+            "liked": "1",
+            "artist": "张敬轩",
+            "song_channel": 3477092
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3724460.jpg",
+            "id": "617611",
+            "title": "花火",
+            "subject_title": "花火",
+            "liked": "1",
+            "artist": "汪峰",
+            "song_channel": 2617611
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3383251.jpg",
+            "id": "1432437",
+            "title": "More Than Love",
+            "subject_title": "AFTER THE LIGHTS",
+            "liked": "1",
+            "artist": "Sweetbox",
+            "song_channel": 3432437
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s2892045.jpg",
+            "id": "590291",
+            "title": "Flavor Of Life",
+            "subject_title": "HEART STATION",
+            "liked": "1",
+            "artist": "宇多田ヒカル",
+            "song_channel": 2590291
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3569603.jpg",
+            "id": "1476056",
+            "title": "CRYIN",
+            "subject_title": "PRETAPORTER",
+            "liked": "1",
+            "artist": "大橋トリオ",
+            "song_channel": 3476056
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3377025.jpg",
+            "id": "994823",
+            "title": "She Will Be Loved",
+            "subject_title": "Songs About Jane",
+            "liked": "1",
+            "artist": "Maroon 5",
+            "song_channel": 2994823
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3054604.jpg",
+            "id": "297871",
+            "title": "Viva La Vida",
+            "subject_title": "Viva La Vida",
+            "liked": "1",
+            "artist": "Coldplay",
+            "song_channel": 2297871
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s1410666.jpg",
+            "id": "67053",
+            "title": "难念的经(西班牙版)",
+            "subject_title": "生.生活",
+            "liked": "1",
+            "artist": "周华健",
+            "song_channel": 2067053
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3666735.jpg",
+            "id": "1383792",
+            "title": "沙龙",
+            "subject_title": "H³M",
+            "liked": "1",
+            "artist": "陈奕迅",
+            "song_channel": 3383792
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3123325.jpg",
+            "id": "585696",
+            "title": "Home",
+            "subject_title": "Home [CD 2]",
+            "liked": "1",
+            "artist": "Westlife",
+            "song_channel": 2585696
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s26342588.jpg",
+            "id": "1910828",
+            "title": "Nothin Like The First Time",
+            "subject_title": "Golden",
+            "liked": "1",
+            "artist": "Lady Antebellum",
+            "song_channel": 3910828
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s3029028.jpg",
+            "id": "190188",
+            "title": "复刻回忆",
+            "subject_title": "It's My Day",
+            "liked": "1",
+            "artist": "方大同 / 薛凯琪",
+            "song_channel": 2190188
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3272412.jpg",
+            "id": "1465294",
+            "title": "Thriller Megamix",
+            "subject_title": "King of Pop",
+            "liked": "1",
+            "artist": "Michael Jackson",
+            "song_channel": 3465294
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s4716728.jpg",
+            "id": "65858",
+            "title": "Stop & Stare",
+            "subject_title": "Now 28: That's What I Call Music",
+            "liked": "1",
+            "artist": "OneRepublic",
+            "song_channel": 2065858
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4600073.jpg",
+            "id": "1528830",
+            "title": "Love The Way You Lie (Part II) feat. Eminem",
+            "subject_title": "Loud",
+            "liked": "1",
+            "artist": "Eminem / Rihanna",
+            "song_channel": 3528830
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4527315.jpg",
+            "id": "1635044",
+            "title": "Someone Like You",
+            "subject_title": "21",
+            "liked": "1",
+            "artist": "Adele",
+            "song_channel": 3635044
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3029030.jpg",
+            "id": "1502336",
+            "title": "ありがとう",
+            "subject_title": "ありがとう",
+            "liked": "1",
+            "artist": "大橋卓弥",
+            "song_channel": 3502336
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4462522.jpg",
+            "id": "1639681",
+            "title": "All About Your Heart",
+            "subject_title": "Anchor",
+            "liked": "1",
+            "artist": "Mindy Gledhill",
+            "song_channel": 3639681
+        },
+        {
+            "cover": "http://img5.douban.com/lpic/s26809187.jpg",
+            "id": "188256",
+            "title": "そばにいるね",
+            "subject_title": "恋のうた",
+            "liked": "1",
+            "artist": "青山テルマ / SoulJa",
+            "song_channel": 2188256
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4600073.jpg",
+            "id": "1528825",
+            "title": "California King Bed",
+            "subject_title": "Loud",
+            "liked": "1",
+            "artist": "Rihanna",
+            "song_channel": 3528825
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s9105445.jpg",
+            "id": "329815",
+            "title": "赤裸裸",
+            "subject_title": "赤裸裸",
+            "liked": "1",
+            "artist": "郑钧",
+            "song_channel": 2329815
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3142014.jpg",
+            "id": "1381631",
+            "title": "Apologize (feat. Timbaland)",
+            "subject_title": "Dreaming Out Loud",
+            "liked": "1",
+            "artist": "OneRepublic",
+            "song_channel": 3381631
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4569522.jpg",
+            "id": "1638797",
+            "title": "Stolen",
+            "subject_title": "Leaving Eden",
+            "liked": "1",
+            "artist": "Brandon Heath",
+            "song_channel": 3638797
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s4642994.jpg",
+            "id": "1703301",
+            "title": "Everything At Once",
+            "subject_title": "Two",
+            "liked": "1",
+            "artist": "Lenka",
+            "song_channel": 3703301
+        },
+        {
+            "cover": "http://img3.douban.com/lpic/s3336530.jpg",
+            "id": "642591",
+            "title": "人间",
+            "subject_title": "王菲",
+            "liked": "1",
+            "artist": "王菲",
+            "song_channel": 2642591
+        }
+    ],
+    "total": 721
+}

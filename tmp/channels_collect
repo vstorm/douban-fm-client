@@ -1,0 +1,117 @@
+{
+    "total": 8,
+    "channels": [
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/20596.jpg",
+            "intro": "「日语系」「治愈向」 成为你的灯光，力量，以及依靠。\r\n\r\n不定期更新...谢谢收听~",
+            "style": {
+                "display_text": "557首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 557,
+            "id": 1003344,
+            "name": "在岁月如歌中找你",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/23032.jpg",
+            "intro": "一听就会安静下来的歌\r\n",
+            "style": {
+                "display_text": "40首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 40,
+            "id": 1004093,
+            "name": "失眠MHz",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/19076.jpg",
+            "intro": "偶尔想起燕姿的歌，那些回忆涌上心头。直到你眼泪留出的瞬间，才知道有些东西是那么重要，就像她的歌一样。",
+            "style": {
+                "display_text": "57首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 57,
+            "id": 1002791,
+            "name": "每人都有首孙燕姿",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/14450.jpg",
+            "intro": "各种苦情，各种逼。",
+            "style": {
+                "display_text": "189首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 189,
+            "id": 1000348,
+            "name": "哭歌汇",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/14481.jpg",
+            "intro": "发现世界角落知音片语 ，来自「寻找安静的声音」豆列 ",
+            "style": {
+                "display_text": "151首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 151,
+            "id": 1000369,
+            "name": "寻找安静的声音",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/14207.jpg",
+            "intro": "青春咖啡馆，爱谁谁电台。http://site.douban.com/aisheishei\r\n只要好音乐，爱谁谁",
+            "style": {
+                "display_text": "323首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 323,
+            "id": 1000208,
+            "name": "爱谁谁电台",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img5.douban.com/img/fmadmin/medium/15087.jpg",
+            "intro": "紫陌红尘，喧嚣中，几人能听风吹过。\r\n2012.5.15 成为豆瓣DJ，只能做一个兆赫。2014.11.17 继续节目了。",
+            "style": {
+                "display_text": "281首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 281,
+            "id": 1000680,
+            "name": "你听有风吹过",
+            "collected": "true"
+        },
+        {
+            "cover": "http://img3.douban.com/img/fmadmin/medium/26383.jpg",
+            "intro": "每天发现一首好听的歌",
+            "style": {
+                "display_text": "8023首",
+                "bg_color": "0x499884",
+                "bg_image": "",
+                "layout_type": 1
+            },
+            "song_num": 8023,
+            "id": 1,
+            "name": "华语",
+            "collected": "true"
+        }
+    ]
+}
