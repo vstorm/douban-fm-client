@@ -59,4 +59,4 @@ Python client library(not official version) for Douban Fm API
     收藏兆赫　client.fm.collect_channel(cid=cid)
     取消收藏  client.fm.uncollect_channel(cid=cid)
 
-    (详细用法可以查看*api/fm.py*文件注释)
+    (详细用法可以查看api/fm.py文件注释)
